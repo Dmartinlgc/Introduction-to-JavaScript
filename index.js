@@ -14,9 +14,13 @@ Task 1a - Voting Age
 Do the following:   
    1. Create a variable called votingAge and assign it a value
    2. Console log true if age is 18 or higher
+    Voting age
 
    HINT: no function required
 */
+const votingAge= (18);
+if votingAge >=18
+console.log(true); 
 
 
 
